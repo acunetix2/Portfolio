@@ -38,4 +38,4 @@ This portfolio website is designed to provide an overview of my skills, projects
 ## Contact Details
 * **Email:** 
 * **LinkedIn:** 
-* **GitHub:** [
+* **GitHub:** 
